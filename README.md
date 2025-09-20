@@ -1,1 +1,1 @@
-abra o script.lua
+abra o require.lua
